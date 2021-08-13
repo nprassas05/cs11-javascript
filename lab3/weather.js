@@ -1,4 +1,4 @@
-var appid = [APPID];  // insert valid APPID here
+var appid = "babde2779459e0c9acc24f2ec0442ba1";  // insert valid APPID here
 
 function onWeather(err, data) {
   if (err) {
