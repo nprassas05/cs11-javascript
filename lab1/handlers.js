@@ -80,6 +80,7 @@ function onTagButtonClick(e) {
   }
 }
 
+// Initialize the canvas
 function initCanvas() {
   var c = document.getElementById("canvas");
   var ctx = c.getContext("2d");
